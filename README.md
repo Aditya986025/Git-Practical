@@ -10,41 +10,115 @@ Git 1st Practical
 
     
     3  mkdir flipkart
+
+    
     4  ls
+
+    
     5  cd flipkart/
+
+    
     6  html.txt
+
+    
     7  touch html.txt
+
+    
     8  ls
+
+
+  
     9  git branch
+
+    
    10  git init
+
+   
    11  git branch
+
+   
    12  git add html.txt
+
+   
    13  git commit -m"this is v1"
+
+   
    14  git status
+
+   
    15  git branch
+
+   
    16  git branch dev
+
+   
    17  git branch test
+
+   
    18  cat html.txt
+
+   
    19  cat >>html.txt
+
+
+   
    20  cat html.txt
+
+   
    21  git branch main
+
+   
    22  git remote origin main https://github.com/Sahil-somkuwar/second-repo.git
+
+   
    23  git remote add origin main https://github.com/Sahil-somkuwar/second-repo.git
+
+   
    24  git checkout main
+
+   
    25  git branch
+
+   
    26  git remote add origin main https://github.com/Sahil-somkuwar/second-repo.git
+
+   
    27  git remote add origin https://github.com/Sahil-somkuwar/second-repo.git
+
+   
    28  git push origin main
+
+   
    29  git remote add origin https://github.com/Sahil-somkuwar/second-repo.git
+
+   
    30  git push origin main
+
+   
    31  git checkout ved
+
+   
    32  git checkout dev
+
+   
    33  touch aws
+
+   
    34  cat > aws
+
+
    35  git add aws
+
+   
    36  git commit -m "2nd Commit"
+
+   
    37  git push origin dev
+
+   
    38  history
+
+   
    39  touch devops
    40  cat > devops
    41  git status
