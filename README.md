@@ -120,31 +120,83 @@ Git 1st Practical
 
    
    39  touch devops
+
+
    40  cat > devops
+
+   
    41  git status
+
+   
    42  vim .gitignore
+
+   
    43  git status
+
+   
    44  touch sagar
+
    45  git status
+
+   
    46  vim .gitignore
+
+   
    47  git status
+
+   
    48  ls -a
+
+   
    49  git branch
+
+   
    50  ls
+
+   
    51  cat >> aws
+
+   
    52  git add aws
+
+   
    53  git commit -m "badsha"
+
+
+
+   
    54  git checkout master
+
+   
    55  git merge dev
+
+   
    56  git log --oneline
+
+   
    57  cd
+
+   
    58  ssh-kegen
+
+   
    59  ssh-keygen
+
+   
    60  cd .ssh/
+
+   
    61  ls
+
+   
    62  cat id_ed25519.pub
+
+   
    63  mv id_ed25519 id_rsa
+
    64  cd
+
+   
    65  git clone git@github.com:Sahil-somkuwar/second-repo.git
    66  ls
    67  cd second-repo/
