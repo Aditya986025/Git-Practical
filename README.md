@@ -4,7 +4,11 @@ Git 1st Practical
 
 
   1  apt update && apt install git -y
+
+  
     2  ls
+
+    
     3  mkdir flipkart
     4  ls
     5  cd flipkart/
